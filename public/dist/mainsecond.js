@@ -1,0 +1,1 @@
+for(var app=10,i=0;i<app;i++)console.log(i);
